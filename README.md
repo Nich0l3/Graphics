@@ -1,2 +1,2 @@
 # Embedded-Learning
-Its a log of whatever I learn about embedded systems :)
+Log of whatever I learn about embedded systems 🦀
