@@ -1,0 +1,477 @@
+2023-11-04 01:42:49,347 [INFO] Activator:176 - 
+
+
+2023-11-04 01:42:49,350 [INFO] Activator:177 - !SESSION log4j initialized
+2023-11-04 01:42:52,976 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-11-04 01:42:57,624 [INFO] ApplicationProperties:184 - Using Application install path: /opt/st/stm32cubeide_1.13.2/plugins/com.st.stm32cube.common.mx_6.9.2.202309101412
+2023-11-04 01:42:57,694 [INFO] DbMcusXml:78 - Set database path to: /opt/st/stm32cubeide_1.13.2/plugins/com.st.stm32cube.common.mx_6.9.2.202309101412//db//mcu/
+2023-11-04 01:42:57,696 [INFO] ApiDb:274 - Set plugin database path to: /opt/st/stm32cubeide_1.13.2/plugins/com.st.stm32cube.common.mx_6.9.2.202309101412//db//plugins/boardmanager/
+2023-11-04 01:42:57,698 [WARN] ApiDb:259 - Overriding images path with different value:  => /opt/st/stm32cubeide_1.13.2/plugins/com.st.stm32cube.common.mx_6.9.2.202309101412//db//plugins/mcufinder/images/
+2023-11-04 01:42:57,755 [INFO] ApiDb:250 - Set database path to: /home/tux/.stmcufinder/plugins/mcufinder//mcu/
+2023-11-04 01:42:57,766 [INFO] DbMcusAds:125 - Set database path to: /home/tux/.stmcufinder/plugins/mcufinder//mcu/
+2023-11-04 01:42:57,776 [INFO] CrossReferenceDbSqlite:203 - Set database path to: /home/tux/.stmcufinder/plugins/mcufinder//mcu/cs/
+2023-11-04 01:42:58,144 [INFO] RulesReader:64 - Compatibility file has been processed (293 Rules)
+2023-11-04 01:42:58,313 [INFO] DbMcusXml:78 - Set database path to: /opt/st/stm32cubeide_1.13.2/plugins/com.st.stm32cube.common.mx_6.9.2.202309101412//db//mcu/
+2023-11-04 01:42:58,313 [INFO] ApiDb:274 - Set plugin database path to: /opt/st/stm32cubeide_1.13.2/plugins/com.st.stm32cube.common.mx_6.9.2.202309101412//db//plugins/boardmanager/
+2023-11-04 01:42:58,314 [INFO] ApiDb:261 - Set plugin images path to: /opt/st/stm32cubeide_1.13.2/plugins/com.st.stm32cube.common.mx_6.9.2.202309101412//db//plugins/mcufinder/images/
+2023-11-04 01:42:58,314 [WARN] DbFile:41 - Overriding database path with different value: /home/tux/.stmcufinder/plugins/mcufinder/ => /home/tux/.stmcufinder/plugins/mcufinder
+2023-11-04 01:42:58,314 [INFO] ApiDb:250 - Set database path to: /home/tux/.stmcufinder/plugins/mcufinder//mcu/
+2023-11-04 01:42:58,314 [WARN] DbFile:41 - Overriding database path with different value: /home/tux/.stmcufinder/plugins/mcufinder/ => /home/tux/.stmcufinder/plugins/mcufinder
+2023-11-04 01:42:58,314 [INFO] DbMcusAds:125 - Set database path to: /home/tux/.stmcufinder/plugins/mcufinder//mcu/
+2023-11-04 01:42:58,314 [WARN] DbFile:41 - Overriding database path with different value: /home/tux/.stmcufinder/plugins/mcufinder/ => /home/tux/.stmcufinder/plugins/mcufinder
+2023-11-04 01:42:58,315 [WARN] DbFile:41 - Overriding database path with different value: /home/tux/.stmcufinder/plugins/mcufinder/ => /home/tux/.stmcufinder/plugins/mcufinder
+2023-11-04 01:42:58,315 [INFO] CrossReferenceDbSqlite:203 - Set database path to: /home/tux/.stmcufinder/plugins/mcufinder//mcu/cs/
+2023-11-04 01:42:58,433 [INFO] MainPanel:262 - HeapMemory: 268435456
+2023-11-04 01:42:58,655 [INFO] DbMcusXml:78 - Set database path to: /opt/st/stm32cubeide_1.13.2/plugins/com.st.stm32cube.common.mx_6.9.2.202309101412//db//mcu/
+2023-11-04 01:42:58,655 [INFO] ApiDb:274 - Set plugin database path to: /opt/st/stm32cubeide_1.13.2/plugins/com.st.stm32cube.common.mx_6.9.2.202309101412//db//plugins/boardmanager/
+2023-11-04 01:42:58,655 [INFO] ApiDb:261 - Set plugin images path to: /opt/st/stm32cubeide_1.13.2/plugins/com.st.stm32cube.common.mx_6.9.2.202309101412//db//plugins/mcufinder/images/
+2023-11-04 01:42:58,656 [WARN] DbFile:41 - Overriding database path with different value: /home/tux/.stmcufinder/plugins/mcufinder/ => /home/tux/.stmcufinder/plugins/mcufinder
+2023-11-04 01:42:58,656 [INFO] ApiDb:250 - Set database path to: /home/tux/.stmcufinder/plugins/mcufinder//mcu/
+2023-11-04 01:42:58,656 [WARN] DbFile:41 - Overriding database path with different value: /home/tux/.stmcufinder/plugins/mcufinder/ => /home/tux/.stmcufinder/plugins/mcufinder
+2023-11-04 01:42:58,657 [INFO] DbMcusAds:125 - Set database path to: /home/tux/.stmcufinder/plugins/mcufinder//mcu/
+2023-11-04 01:42:58,657 [WARN] DbFile:41 - Overriding database path with different value: /home/tux/.stmcufinder/plugins/mcufinder/ => /home/tux/.stmcufinder/plugins/mcufinder
+2023-11-04 01:42:58,657 [WARN] DbFile:41 - Overriding database path with different value: /home/tux/.stmcufinder/plugins/mcufinder/ => /home/tux/.stmcufinder/plugins/mcufinder
+2023-11-04 01:42:58,657 [INFO] CrossReferenceDbSqlite:203 - Set database path to: /home/tux/.stmcufinder/plugins/mcufinder//mcu/cs/
+2023-11-04 01:42:58,691 [INFO] ApplicationProperties:184 - Using Application install path: /opt/st/stm32cubeide_1.13.2/plugins/com.st.stm32cube.common.mx_6.9.2.202309101412
+2023-11-04 01:42:58,693 [INFO] PluginManage:196 - Search for loadable plugins [exclusion list=, ]
+2023-11-04 01:42:58,695 [INFO] PluginManage:310 - Check plugin analytics
+2023-11-04 01:42:58,963 [INFO] AnalyticsPlugin:253 - Accepted Software Licenses: 
+2023-11-04 01:42:58,964 [INFO] AnalyticsPlugin:255 - Accepted CMSIS Pack Licenses: 
+2023-11-04 01:42:58,965 [INFO] AnalyticsPlugin:257 - Accepted Firmware Licenses: 
+2023-11-04 01:42:58,970 [INFO] PluginManage:359 - Loaded plugin analytics (category:tool,tabindex:-1)
+2023-11-04 01:42:58,971 [INFO] PluginManage:310 - Check plugin cadmodel
+2023-11-04 01:42:59,255 [INFO] CADModel:105 - Init CAD model plugin
+2023-11-04 01:42:59,275 [INFO] PluginManage:359 - Loaded plugin cadmodel (category:power,tabindex:5)
+2023-11-04 01:42:59,275 [INFO] PluginManage:310 - Check plugin clock
+2023-11-04 01:42:59,349 [INFO] PluginManage:359 - Loaded plugin clock (category:base,tabindex:2)
+2023-11-04 01:42:59,350 [INFO] PluginManage:310 - Check plugin ddr
+2023-11-04 01:42:59,359 [INFO] PluginManage:359 - Loaded plugin ddr (category:tool,tabindex:6)
+2023-11-04 01:42:59,360 [INFO] PluginManage:310 - Check plugin filemanager
+2023-11-04 01:42:59,669 [INFO] PluginManage:359 - Loaded plugin filemanager (category:base,tabindex:10)
+2023-11-04 01:42:59,669 [INFO] PluginManage:310 - Check plugin ipmanager
+2023-11-04 01:42:59,696 [INFO] PluginManage:359 - Loaded plugin ipmanager (category:base,tabindex:5)
+2023-11-04 01:42:59,697 [INFO] PluginManage:310 - Check plugin lpbam
+2023-11-04 01:42:59,736 [INFO] PluginManage:359 - Loaded plugin lpbam (category:base,tabindex:0)
+2023-11-04 01:42:59,739 [INFO] PluginManage:310 - Check plugin memorymap
+2023-11-04 01:42:59,773 [INFO] PluginManage:359 - Loaded plugin memorymap (category:base,tabindex:4)
+2023-11-04 01:42:59,773 [INFO] PluginManage:310 - Check plugin pinoutandconfiguration
+2023-11-04 01:42:59,808 [INFO] PluginManage:359 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2023-11-04 01:42:59,808 [INFO] PluginManage:310 - Check plugin pinoutconfig
+2023-11-04 01:43:00,309 [WARN] SupportedApi:132 - Cannot load RTOS API schema: s4s-elt-must-match.1: The content of 'definitions' must match (annotation?, (simpleType | complexType)?, (unique | key | keyref)*)). A problem was found starting at: attribute.
+2023-11-04 01:43:00,714 [INFO] PluginManage:359 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2023-11-04 01:43:00,715 [INFO] PluginManage:310 - Check plugin power
+2023-11-04 01:43:00,756 [INFO] PluginManage:359 - Loaded plugin power (category:power,tabindex:4)
+2023-11-04 01:43:00,757 [INFO] PluginManage:310 - Check plugin projectmanager
+2023-11-04 01:43:00,819 [INFO] PluginManage:359 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2023-11-04 01:43:00,819 [INFO] PluginManage:310 - Check plugin thirdparty
+2023-11-04 01:43:01,277 [INFO] PluginManage:359 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2023-11-04 01:43:01,278 [WARN] IntegrityCheckThread:84 - waiting for thirdparty lock release [integrity check]
+2023-11-04 01:43:01,279 [INFO] IntegrityCheckThread:86 - entering critical section [integrity check]
+2023-11-04 01:43:01,279 [INFO] PluginManage:310 - Check plugin tools
+2023-11-04 01:43:01,279 [INFO] ThirdPartyUpdaterWithRetryManager:70 - Updater plugin not ready yet. [1/15]
+2023-11-04 01:43:01,292 [INFO] PluginManage:359 - Loaded plugin tools (category:base,tabindex:7)
+2023-11-04 01:43:01,292 [INFO] PluginManage:310 - Check plugin tutovideos
+2023-11-04 01:43:01,686 [INFO] PluginManage:359 - Loaded plugin tutovideos (category:base,tabindex:-1)
+2023-11-04 01:43:01,686 [INFO] PluginManage:310 - Check plugin updater
+2023-11-04 01:43:01,713 [INFO] PluginManage:359 - Loaded plugin updater (category:base,tabindex:12)
+2023-11-04 01:43:01,713 [INFO] PluginManage:310 - Check plugin userauth
+2023-11-04 01:43:01,729 [INFO] UserAuth:113 - Init User Auth plugin
+2023-11-04 01:43:01,729 [INFO] PluginManage:359 - Loaded plugin userauth (category:base,tabindex:14)
+2023-11-04 01:43:01,730 [INFO] PluginManage:283 - PluginManage : Loaded plugins [17]
+2023-11-04 01:43:02,432 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2023-11-04 01:43:02,861 [INFO] CADModel:165 - CPN selected for project level
+2023-11-04 01:43:02,862 [INFO] CADModel:114 - Register for checkConnection events
+2023-11-04 01:43:02,900 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:02,901 [INFO] PluginManager:220 - loadIPPluginJar : add tsc
+2023-11-04 01:43:02,917 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:02,917 [INFO] PluginManager:220 - loadIPPluginJar : add i2c
+2023-11-04 01:43:02,928 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:02,929 [INFO] PluginManager:220 - loadIPPluginJar : add can
+2023-11-04 01:43:02,946 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:02,946 [INFO] PluginManager:220 - loadIPPluginJar : add resmgrutility
+2023-11-04 01:43:02,953 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:02,953 [INFO] PluginManager:220 - loadIPPluginJar : add ts
+2023-11-04 01:43:02,957 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:02,960 [INFO] PluginManager:220 - loadIPPluginJar : add touchsensing
+2023-11-04 01:43:02,965 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:02,966 [INFO] PluginManager:220 - loadIPPluginJar : add ltdc
+2023-11-04 01:43:02,972 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:02,973 [INFO] PluginManager:220 - loadIPPluginJar : add gpio
+2023-11-04 01:43:02,985 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:02,986 [INFO] PluginManager:220 - loadIPPluginJar : add aes
+2023-11-04 01:43:02,998 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:02,999 [INFO] PluginManager:220 - loadIPPluginJar : add nvic
+2023-11-04 01:43:03,004 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,005 [INFO] PluginManager:220 - loadIPPluginJar : add hash
+2023-11-04 01:43:03,025 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,041 [INFO] PluginManager:220 - loadIPPluginJar : add plateformsettings
+2023-11-04 01:43:03,048 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,049 [INFO] PluginManager:220 - loadIPPluginJar : add quadspi
+2023-11-04 01:43:03,063 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,063 [INFO] PluginManager:220 - loadIPPluginJar : add gic
+2023-11-04 01:43:03,081 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,082 [INFO] PluginManager:220 - loadIPPluginJar : add freertos
+2023-11-04 01:43:03,087 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,088 [INFO] PluginManager:220 - loadIPPluginJar : add comp
+2023-11-04 01:43:03,101 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,102 [INFO] PluginManager:220 - loadIPPluginJar : add ipddr
+2023-11-04 01:43:03,113 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,116 [INFO] PluginManager:220 - loadIPPluginJar : add stm32_wpan
+2023-11-04 01:43:03,120 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,121 [INFO] PluginManager:220 - loadIPPluginJar : add dma3
+2023-11-04 01:43:03,127 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,127 [INFO] PluginManager:220 - loadIPPluginJar : add i3c
+2023-11-04 01:43:03,130 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,130 [INFO] PluginManager:220 - loadIPPluginJar : add tracer_emb
+2023-11-04 01:43:03,138 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,141 [INFO] PluginManager:220 - loadIPPluginJar : add fmc
+2023-11-04 01:43:03,144 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,144 [INFO] PluginManager:220 - loadIPPluginJar : add dfsdm
+2023-11-04 01:43:03,152 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,152 [INFO] PluginManager:220 - loadIPPluginJar : add dma
+2023-11-04 01:43:03,155 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,155 [INFO] PluginManager:220 - loadIPPluginJar : add fatfs
+2023-11-04 01:43:03,168 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,168 [INFO] PluginManager:220 - loadIPPluginJar : add sai
+2023-11-04 01:43:03,183 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,183 [INFO] PluginManager:220 - loadIPPluginJar : add linkedlist
+2023-11-04 01:43:03,186 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,187 [INFO] PluginManager:220 - loadIPPluginJar : add spi
+2023-11-04 01:43:03,191 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,191 [INFO] PluginManager:220 - loadIPPluginJar : add i2s
+2023-11-04 01:43:03,200 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,200 [INFO] PluginManager:220 - loadIPPluginJar : add mdma
+2023-11-04 01:43:03,204 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,204 [INFO] PluginManager:220 - loadIPPluginJar : add tim
+2023-11-04 01:43:03,208 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,208 [INFO] PluginManager:220 - loadIPPluginJar : add cryp
+2023-11-04 01:43:03,211 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,212 [INFO] PluginManager:220 - loadIPPluginJar : add opamp
+2023-11-04 01:43:03,215 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,216 [INFO] PluginManager:220 - loadIPPluginJar : add ucpd
+2023-11-04 01:43:03,225 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,225 [INFO] PluginManager:220 - loadIPPluginJar : add adc
+2023-11-04 01:43:03,227 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,227 [INFO] PluginManager:220 - loadIPPluginJar : add gfxmmu
+2023-11-04 01:43:03,230 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,230 [INFO] PluginManager:220 - loadIPPluginJar : add usbx
+2023-11-04 01:43:03,233 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,234 [INFO] PluginManager:220 - loadIPPluginJar : add gtzc
+2023-11-04 01:43:03,235 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,235 [INFO] PluginManager:220 - loadIPPluginJar : add genericplugin
+2023-11-04 01:43:03,240 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,240 [INFO] PluginManager:220 - loadIPPluginJar : add usart
+2023-11-04 01:43:03,243 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,243 [INFO] PluginManager:220 - loadIPPluginJar : add openamp
+2023-11-04 01:43:03,246 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,246 [INFO] PluginManager:220 - loadIPPluginJar : add lorawan
+2023-11-04 01:43:03,250 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 01:43:03,250 [INFO] PluginManager:220 - loadIPPluginJar : add pdm2pcm
+2023-11-04 01:43:03,370 [INFO] CADModel:165 - CPN selected for project level
+2023-11-04 01:43:03,370 [INFO] CADModel:114 - Register for checkConnection events
+2023-11-04 01:43:03,370 [FATAL] Updater:308 - Updater called before beeing initialized
+2023-11-04 01:43:03,371 [ERROR] CADModel:125 - Updater not yet initialized, retry later 
+2023-11-04 01:43:03,539 [INFO] CADModel:165 - CPN selected for project level
+2023-11-04 01:43:03,539 [INFO] CADModel:114 - Register for checkConnection events
+2023-11-04 01:43:03,539 [FATAL] Updater:308 - Updater called before beeing initialized
+2023-11-04 01:43:03,539 [ERROR] CADModel:125 - Updater not yet initialized, retry later 
+2023-11-04 01:43:03,542 [FATAL] Updater:308 - Updater called before beeing initialized
+2023-11-04 01:43:03,673 [FATAL] Updater:308 - Updater called before beeing initialized
+2023-11-04 01:43:03,680 [INFO] DbMcusAds:53 - JSON generation date=Tue Mar 07 14:20:55 IST 2023 (1678179055114)
+2023-11-04 01:43:03,680 [FATAL] Updater:308 - Updater called before beeing initialized
+2023-11-04 01:43:03,742 [WARN] DetailPanel:346 - Failed to get advertising image, set to default
+2023-11-04 01:43:03,888 [FATAL] Updater:308 - Updater called before beeing initialized
+2023-11-04 01:43:03,891 [FATAL] Updater:308 - Updater called before beeing initialized
+2023-11-04 01:43:03,892 [FATAL] Updater:308 - Updater called before beeing initialized
+2023-11-04 01:43:03,892 [WARN] DetailPanel:346 - Failed to get advertising image, set to default
+2023-11-04 01:43:03,893 [FATAL] Updater:308 - Updater called before beeing initialized
+2023-11-04 01:43:03,939 [ERROR] Updater:1120 - MainUpdater not yet initialized. External WinMGr cannot be set.
+2023-11-04 01:43:03,942 [INFO] Updater:1056 - Updater Version found : 6.9.2
+2023-11-04 01:43:03,963 [INFO] ApplicationProperties:184 - Using Application install path: /opt/st/stm32cubeide_1.13.2/plugins/com.st.stm32cube.common.mx_6.9.2.202309101412
+2023-11-04 01:43:04,156 [INFO] MainUpdater:2868 - connection check result : 10
+2023-11-04 01:43:04,156 [INFO] MainUpdater:3562 - Updater definition file requires update
+2023-11-04 01:43:04,157 [INFO] MainUpdater:285 - Updater Check For Update Now.
+2023-11-04 01:43:04,158 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.92
+2023-11-04 01:43:04,167 [INFO] McuFinderGlobals:63 - Set McuFinder mode to 2 (CubeIDE integrated)
+2023-11-04 01:43:04,168 [INFO] UserAuth:179 - activating auth plugin
+2023-11-04 01:43:04,174 [INFO] UserAuth:393 - Internet connection configuration mode: 1
+2023-11-04 01:43:04,197 [INFO] JxBrowserEngine:151 - Initiate JxBrowser Engine with user profile folder
+2023-11-04 01:43:04,204 [INFO] ServerAccessManage:473 - Download File updaters.zip
+2023-11-04 01:43:04,283 [WARN] MainUpdater:1189 - Updater busy. Cannot search thirdparties
+2023-11-04 01:43:04,283 [INFO] ThirdPartyUpdaterWithRetryManager:96 - Updater plugin is busy. [1/15]
+2023-11-04 01:43:04,343 [INFO] FileExtend:240 - Unzip File : updaters.zip
+2023-11-04 01:43:04,343 [INFO] FileExtend:255 - Standard Zip Deflate
+2023-11-04 01:43:04,568 [INFO] ServerAccessManage:473 - Download File PacksControlFlags.xml
+2023-11-04 01:43:04,664 [INFO] ServerAccessManage:473 - Download File cubemx.pidx
+2023-11-04 01:43:05,675 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.X-CUBE-BLEMGR.pdsc
+2023-11-04 01:43:06,852 [INFO] WebApp:157 - Instantiating new browser for Auth
+2023-11-04 01:43:07,284 [WARN] MainUpdater:1189 - Updater busy. Cannot search thirdparties
+2023-11-04 01:43:07,285 [INFO] ThirdPartyUpdaterWithRetryManager:96 - Updater plugin is busy. [2/15]
+2023-11-04 01:43:08,753 [INFO] WebApp:753 - Register for checkConnection events
+2023-11-04 01:43:08,753 [INFO] WebApp:390 - Apply proxy settings
+2023-11-04 01:43:08,754 [INFO] WebApp:475 - Chromium requires no authentication
+2023-11-04 01:43:08,763 [INFO] WebApp:418 - Direct internet connection detected
+2023-11-04 01:43:08,924 [INFO] WebApp:188 - Starting web application
+2023-11-04 01:43:08,924 [INFO] WebApp:520 - Web application path used /opt/st/stm32cubeide_1.13.2/plugins/com.st.stm32cube.common.mx_6.9.2.202309101412/db/plugins/mcufinder/reactClient1/index.html
+2023-11-04 01:43:09,419 [ERROR] ServerAccessManage:1096 - Problem, Http access forbiden
+2023-11-04 01:43:09,421 [ERROR] ServerAccessManage:651 - Problem, Http access forbiden : RoweBots.I-CUBE-UNISONRTOS.pdsc.
+2023-11-04 01:43:10,257 [ERROR] ServerAccessManage:1172 - Problem during Server Connection :  IO error PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2023-11-04 01:43:10,258 [ERROR] ServerAccessManage:651 - Problem during Server Connection :  : SEGGER.I-CUBE-embOS.pdsc.
+2023-11-04 01:43:10,285 [WARN] MainUpdater:1189 - Updater busy. Cannot search thirdparties
+2023-11-04 01:43:10,286 [INFO] ThirdPartyUpdaterWithRetryManager:96 - Updater plugin is busy. [3/15]
+2023-11-04 01:43:10,569 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLEMGR.3.0.0
+2023-11-04 01:43:10,583 [INFO] PopulateThirdPartyThread:66 - Ending populate Thread
+2023-11-04 01:43:10,584 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 3.0.0
+2023-11-04 01:43:10,585 [INFO] LoadServerUpdatesThread:373 - End of LoadServerUpdate Thread
+2023-11-04 01:43:10,710 [INFO] CheckServerUpdateThread:120 - End of CheckServer Thread
+2023-11-04 01:43:13,528 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SMBUS.2.1.0
+2023-11-04 01:43:13,581 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F7.1.1.0
+2023-11-04 01:43:13,599 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-MOTENV1.4.3.2
+2023-11-04 01:43:13,611 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-FLIGHT1.5.0.2
+2023-11-04 01:43:13,627 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-DISPLAY.3.0.0
+2023-11-04 01:43:13,651 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE1.7.0.0
+2023-11-04 01:43:13,662 [WARN] PackLoader:240 - Cannot read IP mode file for emotas.I-CUBE-CANOPEN.1.3.0
+2023-11-04 01:43:13,669 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.22.1
+2023-11-04 01:43:13,678 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-SMARTAG2.1.2.0
+2023-11-04 01:43:13,695 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-11-04 01:43:13,696 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-11-04 01:43:13,696 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-11-04 01:43:13,697 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-11-04 01:43:13,697 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-11-04 01:43:13,708 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-WL.2.0.0
+2023-11-04 01:43:13,724 [WARN] PackLoader:240 - Cannot read IP mode file for WES.I-CUBE-Cesium.1.3.0
+2023-11-04 01:43:13,731 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE2.3.3.0
+2023-11-04 01:43:13,745 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALGOBUILD.1.3.0
+2023-11-04 01:43:13,787 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G0.1.1.0
+2023-11-04 01:43:13,803 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC4.3.0.0
+2023-11-04 01:43:13,825 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLEMGR.3.0.0
+2023-11-04 01:43:13,835 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-ATR-SIGFOX1.3.2.0
+2023-11-04 01:43:13,844 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-GNSS1.6.0.0
+2023-11-04 01:43:13,882 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F4.1.1.0
+2023-11-04 01:43:13,894 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfSSL.5.6.3
+2023-11-04 01:43:13,929 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L5.2.0.0
+2023-11-04 01:43:13,943 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-EEPRMA1.4.2.0
+2023-11-04 01:43:13,951 [WARN] PackLoader:240 - Cannot read IP mode file for ITTIA_DB.I-CUBE-ITTIADB.8.8.0
+2023-11-04 01:43:13,965 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLEMGR.2.0.0
+2023-11-04 01:43:14,000 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2023-11-04 01:43:14,001 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2023-11-04 01:43:14,009 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7.3.1.0
+2023-11-04 01:43:14,011 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2023-11-04 01:43:14,011 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2023-11-04 01:43:14,012 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2023-11-04 01:43:14,013 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2023-11-04 01:43:14,013 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2023-11-04 01:43:14,025 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC7.1.0.1
+2023-11-04 01:43:14,039 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC6.3.0.0
+2023-11-04 01:43:14,047 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AI.8.1.0
+2023-11-04 01:43:14,083 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : LAN8742 Phy interface Condition cause : null
+2023-11-04 01:43:14,085 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L4.2.0.0
+2023-11-04 01:43:14,090 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2023-11-04 01:43:14,092 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2023-11-04 01:43:14,095 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2023-11-04 01:43:14,112 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0
+2023-11-04 01:43:14,125 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ISPU.1.1.0
+2023-11-04 01:43:14,176 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2023-11-04 01:43:14,178 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2023-11-04 01:43:14,192 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0
+2023-11-04 01:43:14,193 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2023-11-04 01:43:14,194 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2023-11-04 01:43:14,195 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2023-11-04 01:43:14,201 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2023-11-04 01:43:14,202 [WARN] ConditionMgr:1039 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2023-11-04 01:43:14,232 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SUBG2.5.0.0
+2023-11-04 01:43:14,306 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOF1.3.3.1
+2023-11-04 01:43:14,363 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G4.2.0.0
+2023-11-04 01:43:14,395 [WARN] PackLoader:240 - Cannot read IP mode file for Infineon.AIROC-Wi-Fi-Bluetooth-STM32.1.5.1
+2023-11-04 01:43:14,502 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-MEMS1.10.0.0
+2023-11-04 01:43:14,741 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-FREERTOS.1.1.0
+2023-11-04 01:43:14,747 [WARN] PackLoader:240 - Cannot read IP mode file for portGmbH.I-Cube-SoM-uGOAL.1.1.0
+2023-11-04 01:43:14,751 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALS.1.0.1
+2023-11-04 01:43:14,761 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-ATR-ASTRA1.2.0.0
+2023-11-04 01:43:14,762 [INFO] ThirdParty:978 - Integrity check success = true
+2023-11-04 01:43:14,763 [INFO] IntegrityCheckThread:100 - exiting critical section [integrity check]
+2023-11-04 01:43:14,763 [INFO] IntegrityCheckThread:103 - End integrity checks thread
+2023-11-04 01:43:29,708 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2023-11-04 01:43:29,709 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2023-11-04 01:43:29,710 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2023-11-04 01:47:24,817 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 0
+2023-11-04 01:47:24,819 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4602)
+2023-11-04 01:47:24,819 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.substring(String.java:2705)
+2023-11-04 01:47:24,820 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.calcJumpInstructionDirect(InstructionRecord.java:190)
+2023-11-04 01:47:24,821 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.isJumpInstructionDirect(InstructionRecord.java:153)
+2023-11-04 01:47:24,821 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.cyclomaticcomplexity.model.CallGraph.fromInstructions(CallGraph.java:59)
+2023-11-04 01:47:24,822 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.cyclomaticcomplexity.CyclomaticView.inputChanged(CyclomaticView.java:699)
+2023-11-04 01:47:24,822 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.cyclomaticcomplexity.CyclomaticView.lambda$4(CyclomaticView.java:561)
+2023-11-04 01:47:24,823 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-11-04 01:47:24,823 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 0
+2023-11-04 01:47:24,824 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4602)
+2023-11-04 01:47:24,824 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.substring(String.java:2705)
+2023-11-04 01:47:24,825 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.calcJumpInstructionDirect(InstructionRecord.java:190)
+2023-11-04 01:47:24,826 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.isJumpInstructionDirect(InstructionRecord.java:153)
+2023-11-04 01:47:24,829 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.cyclomaticcomplexity.model.CallGraph.fromInstructions(CallGraph.java:59)
+2023-11-04 01:47:24,831 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.cyclomaticcomplexity.CyclomaticView.inputChanged(CyclomaticView.java:699)
+2023-11-04 01:47:24,832 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.cyclomaticcomplexity.CyclomaticView.lambda$4(CyclomaticView.java:561)
+2023-11-04 01:47:24,832 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-11-04 01:47:24,833 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 0
+2023-11-04 01:47:24,833 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4602)
+2023-11-04 01:47:24,834 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.substring(String.java:2705)
+2023-11-04 01:47:24,834 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.calcJumpInstructionDirect(InstructionRecord.java:190)
+2023-11-04 01:47:24,835 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.isJumpInstructionDirect(InstructionRecord.java:153)
+2023-11-04 01:47:24,835 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.cyclomaticcomplexity.model.CallGraph.fromInstructions(CallGraph.java:59)
+2023-11-04 01:47:24,835 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.cyclomaticcomplexity.CyclomaticView.inputChanged(CyclomaticView.java:699)
+2023-11-04 01:47:24,836 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.cyclomaticcomplexity.CyclomaticView.lambda$4(CyclomaticView.java:561)
+2023-11-04 01:47:24,836 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-11-04 01:47:24,837 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 0
+2023-11-04 01:47:24,837 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4602)
+2023-11-04 01:47:24,838 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.substring(String.java:2705)
+2023-11-04 01:47:24,839 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.calcJumpInstructionDirect(InstructionRecord.java:190)
+2023-11-04 01:47:24,839 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.isJumpInstructionDirect(InstructionRecord.java:153)
+2023-11-04 01:47:24,839 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.cyclomaticcomplexity.model.CallGraph.fromInstructions(CallGraph.java:59)
+2023-11-04 01:47:24,840 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.cyclomaticcomplexity.CyclomaticView.inputChanged(CyclomaticView.java:699)
+2023-11-04 01:47:24,840 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.cyclomaticcomplexity.CyclomaticView.lambda$4(CyclomaticView.java:561)
+2023-11-04 01:47:24,840 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-11-04 01:47:24,840 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 0
+2023-11-04 01:47:24,841 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4602)
+2023-11-04 01:47:24,843 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.substring(String.java:2705)
+2023-11-04 01:47:24,844 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.calcJumpInstructionDirect(InstructionRecord.java:190)
+2023-11-04 01:47:24,845 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.isJumpInstructionDirect(InstructionRecord.java:153)
+2023-11-04 01:47:24,846 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.cyclomaticcomplexity.model.CallGraph.fromInstructions(CallGraph.java:59)
+2023-11-04 01:47:24,846 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.cyclomaticcomplexity.CyclomaticView.inputChanged(CyclomaticView.java:699)
+2023-11-04 01:47:24,847 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.cyclomaticcomplexity.CyclomaticView.lambda$4(CyclomaticView.java:561)
+2023-11-04 01:47:24,847 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-11-04 01:47:24,848 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 0
+2023-11-04 01:47:24,849 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4602)
+2023-11-04 01:47:24,849 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.substring(String.java:2705)
+2023-11-04 01:47:24,850 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.calcJumpInstructionDirect(InstructionRecord.java:190)
+2023-11-04 01:47:24,850 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.isJumpInstructionDirect(InstructionRecord.java:153)
+2023-11-04 01:47:24,850 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.cyclomaticcomplexity.model.CallGraph.fromInstructions(CallGraph.java:59)
+2023-11-04 01:47:24,851 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.cyclomaticcomplexity.CyclomaticView.inputChanged(CyclomaticView.java:699)
+2023-11-04 01:47:24,851 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.cyclomaticcomplexity.CyclomaticView.lambda$4(CyclomaticView.java:561)
+2023-11-04 01:47:24,851 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-11-04 01:47:24,851 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 0
+2023-11-04 01:47:24,852 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4602)
+2023-11-04 01:47:24,852 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.substring(String.java:2705)
+2023-11-04 01:47:24,852 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.calcJumpInstructionDirect(InstructionRecord.java:190)
+2023-11-04 01:47:24,852 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.isJumpInstructionDirect(InstructionRecord.java:153)
+2023-11-04 01:47:24,852 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.cyclomaticcomplexity.model.CallGraph.fromInstructions(CallGraph.java:59)
+2023-11-04 01:47:24,853 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.cyclomaticcomplexity.CyclomaticView.inputChanged(CyclomaticView.java:699)
+2023-11-04 01:47:24,853 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.cyclomaticcomplexity.CyclomaticView.lambda$4(CyclomaticView.java:561)
+2023-11-04 01:47:24,853 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-11-04 01:47:24,853 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 0
+2023-11-04 01:47:24,854 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4602)
+2023-11-04 01:47:24,854 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.substring(String.java:2705)
+2023-11-04 01:47:24,854 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.calcJumpInstructionDirect(InstructionRecord.java:190)
+2023-11-04 01:47:24,854 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.isJumpInstructionDirect(InstructionRecord.java:153)
+2023-11-04 01:47:24,854 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.cyclomaticcomplexity.model.CallGraph.fromInstructions(CallGraph.java:59)
+2023-11-04 01:47:24,855 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.cyclomaticcomplexity.CyclomaticView.inputChanged(CyclomaticView.java:699)
+2023-11-04 01:47:24,855 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.cyclomaticcomplexity.CyclomaticView.lambda$4(CyclomaticView.java:561)
+2023-11-04 01:47:24,855 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-11-04 01:47:24,855 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 0
+2023-11-04 01:47:24,855 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4602)
+2023-11-04 01:47:24,856 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.substring(String.java:2705)
+2023-11-04 01:47:24,856 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.calcJumpInstructionDirect(InstructionRecord.java:190)
+2023-11-04 01:47:24,857 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.isJumpInstructionDirect(InstructionRecord.java:153)
+2023-11-04 01:47:24,857 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.cyclomaticcomplexity.model.CallGraph.fromInstructions(CallGraph.java:59)
+2023-11-04 01:47:24,857 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.cyclomaticcomplexity.CyclomaticView.inputChanged(CyclomaticView.java:699)
+2023-11-04 01:47:24,858 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.cyclomaticcomplexity.CyclomaticView.lambda$4(CyclomaticView.java:561)
+2023-11-04 01:47:24,858 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-11-04 01:47:24,858 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 0
+2023-11-04 01:47:24,858 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4602)
+2023-11-04 01:47:24,859 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.substring(String.java:2705)
+2023-11-04 01:47:24,859 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.calcJumpInstructionDirect(InstructionRecord.java:190)
+2023-11-04 01:47:24,859 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.isJumpInstructionDirect(InstructionRecord.java:153)
+2023-11-04 01:47:24,859 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.cyclomaticcomplexity.model.CallGraph.fromInstructions(CallGraph.java:59)
+2023-11-04 01:47:24,860 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.cyclomaticcomplexity.CyclomaticView.inputChanged(CyclomaticView.java:699)
+2023-11-04 01:47:24,860 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.cyclomaticcomplexity.CyclomaticView.lambda$4(CyclomaticView.java:561)
+2023-11-04 01:47:24,860 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-11-04 01:47:25,010 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 0
+2023-11-04 01:47:25,011 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4602)
+2023-11-04 01:47:25,012 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.substring(String.java:2705)
+2023-11-04 01:47:25,012 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.calcJumpInstructionDirect(InstructionRecord.java:190)
+2023-11-04 01:47:25,013 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.isJumpInstructionDirect(InstructionRecord.java:153)
+2023-11-04 01:47:25,013 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.stackanalyzer.model.CallGraph.fromInstructions(CallGraph.java:64)
+2023-11-04 01:47:25,014 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:960)
+2023-11-04 01:47:25,014 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$15(StackAnalyzerView.java:1307)
+2023-11-04 01:47:25,015 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-11-04 01:47:25,015 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 0
+2023-11-04 01:47:25,016 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4602)
+2023-11-04 01:47:25,017 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.substring(String.java:2705)
+2023-11-04 01:47:25,017 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.calcJumpInstructionDirect(InstructionRecord.java:190)
+2023-11-04 01:47:25,018 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.isJumpInstructionDirect(InstructionRecord.java:153)
+2023-11-04 01:47:25,018 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.stackanalyzer.model.CallGraph.fromInstructions(CallGraph.java:64)
+2023-11-04 01:47:25,019 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:960)
+2023-11-04 01:47:25,019 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$15(StackAnalyzerView.java:1307)
+2023-11-04 01:47:25,020 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-11-04 01:47:25,020 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 0
+2023-11-04 01:47:25,021 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4602)
+2023-11-04 01:47:25,021 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.substring(String.java:2705)
+2023-11-04 01:47:25,022 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.calcJumpInstructionDirect(InstructionRecord.java:190)
+2023-11-04 01:47:25,022 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.isJumpInstructionDirect(InstructionRecord.java:153)
+2023-11-04 01:47:25,023 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.stackanalyzer.model.CallGraph.fromInstructions(CallGraph.java:64)
+2023-11-04 01:47:25,024 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:960)
+2023-11-04 01:47:25,024 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$15(StackAnalyzerView.java:1307)
+2023-11-04 01:47:25,025 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-11-04 01:47:25,027 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 0
+2023-11-04 01:47:25,027 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4602)
+2023-11-04 01:47:25,028 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.substring(String.java:2705)
+2023-11-04 01:47:25,028 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.calcJumpInstructionDirect(InstructionRecord.java:190)
+2023-11-04 01:47:25,029 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.isJumpInstructionDirect(InstructionRecord.java:153)
+2023-11-04 01:47:25,029 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.stackanalyzer.model.CallGraph.fromInstructions(CallGraph.java:64)
+2023-11-04 01:47:25,030 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:960)
+2023-11-04 01:47:25,031 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$15(StackAnalyzerView.java:1307)
+2023-11-04 01:47:25,031 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-11-04 01:47:25,032 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 0
+2023-11-04 01:47:25,032 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4602)
+2023-11-04 01:47:25,033 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.substring(String.java:2705)
+2023-11-04 01:47:25,033 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.calcJumpInstructionDirect(InstructionRecord.java:190)
+2023-11-04 01:47:25,034 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.isJumpInstructionDirect(InstructionRecord.java:153)
+2023-11-04 01:47:25,035 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.stackanalyzer.model.CallGraph.fromInstructions(CallGraph.java:64)
+2023-11-04 01:47:25,035 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:960)
+2023-11-04 01:47:25,036 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$15(StackAnalyzerView.java:1307)
+2023-11-04 01:47:25,036 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-11-04 01:47:25,037 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 0
+2023-11-04 01:47:25,037 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4602)
+2023-11-04 01:47:25,038 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.substring(String.java:2705)
+2023-11-04 01:47:25,038 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.calcJumpInstructionDirect(InstructionRecord.java:190)
+2023-11-04 01:47:25,039 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.isJumpInstructionDirect(InstructionRecord.java:153)
+2023-11-04 01:47:25,039 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.stackanalyzer.model.CallGraph.fromInstructions(CallGraph.java:64)
+2023-11-04 01:47:25,040 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:960)
+2023-11-04 01:47:25,041 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$15(StackAnalyzerView.java:1307)
+2023-11-04 01:47:25,041 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-11-04 01:47:25,042 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 0
+2023-11-04 01:47:25,044 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4602)
+2023-11-04 01:47:25,044 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.substring(String.java:2705)
+2023-11-04 01:47:25,045 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.calcJumpInstructionDirect(InstructionRecord.java:190)
+2023-11-04 01:47:25,045 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.isJumpInstructionDirect(InstructionRecord.java:153)
+2023-11-04 01:47:25,046 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.stackanalyzer.model.CallGraph.fromInstructions(CallGraph.java:64)
+2023-11-04 01:47:25,046 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:960)
+2023-11-04 01:47:25,047 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$15(StackAnalyzerView.java:1307)
+2023-11-04 01:47:25,047 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-11-04 01:47:25,048 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 0
+2023-11-04 01:47:25,049 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4602)
+2023-11-04 01:47:25,049 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.substring(String.java:2705)
+2023-11-04 01:47:25,050 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.calcJumpInstructionDirect(InstructionRecord.java:190)
+2023-11-04 01:47:25,050 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.isJumpInstructionDirect(InstructionRecord.java:153)
+2023-11-04 01:47:25,051 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.stackanalyzer.model.CallGraph.fromInstructions(CallGraph.java:64)
+2023-11-04 01:47:25,051 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:960)
+2023-11-04 01:47:25,052 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$15(StackAnalyzerView.java:1307)
+2023-11-04 01:47:25,053 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-11-04 01:47:25,053 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 0
+2023-11-04 01:47:25,054 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4602)
+2023-11-04 01:47:25,054 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.substring(String.java:2705)
+2023-11-04 01:47:25,055 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.calcJumpInstructionDirect(InstructionRecord.java:190)
+2023-11-04 01:47:25,056 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.isJumpInstructionDirect(InstructionRecord.java:153)
+2023-11-04 01:47:25,056 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.stackanalyzer.model.CallGraph.fromInstructions(CallGraph.java:64)
+2023-11-04 01:47:25,057 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:960)
+2023-11-04 01:47:25,057 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$15(StackAnalyzerView.java:1307)
+2023-11-04 01:47:25,058 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-11-04 01:47:25,059 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 0
+2023-11-04 01:47:25,060 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4602)
+2023-11-04 01:47:25,061 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.String.substring(String.java:2705)
+2023-11-04 01:47:25,061 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.calcJumpInstructionDirect(InstructionRecord.java:190)
+2023-11-04 01:47:25,062 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.utils.assembly.InstructionRecord.isJumpInstructionDirect(InstructionRecord.java:153)
+2023-11-04 01:47:25,062 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.stackanalyzer.model.CallGraph.fromInstructions(CallGraph.java:64)
+2023-11-04 01:47:25,063 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:960)
+2023-11-04 01:47:25,063 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$15(StackAnalyzerView.java:1307)
+2023-11-04 01:47:25,064 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-11-04 01:51:33,981 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
