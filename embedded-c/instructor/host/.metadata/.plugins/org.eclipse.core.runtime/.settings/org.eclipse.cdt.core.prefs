@@ -1,6 +1,0 @@
-eclipse.preferences.version=1
-environment/workspace/append=true
-environment/workspace/appendContributed=true
-environment/workspace/gcc/delimiter=\:
-environment/workspace/gcc/operation=append
-environment/workspace/gcc/value=/usr/bin/gcc
