@@ -12,7 +12,7 @@
  ******************************************************************************
  * @attention
  *
- * Copyright (c) 2023 STMicroelectronics.
+ * Copyright (c) 2024 STMicroelectronics.
  * All rights reserved.
  *
  * This software is licensed under terms that can be found in the LICENSE file
@@ -124,7 +124,6 @@ Infinite_Loop:
 ******************************************************************************/
   .section .isr_vector,"a",%progbits
   .type g_pfnVectors, %object
-  .size g_pfnVectors, .-g_pfnVectors
 
 g_pfnVectors:
   .word _estack
@@ -228,6 +227,7 @@ g_pfnVectors:
   .word	0                            			/* Reserved                                                                        */
   .word	0                            			/* Reserved                                                                        */
   .word	SPI4_IRQHandler              			/* SPI4 global interrupt                                                           */
+  .size g_pfnVectors, .-g_pfnVectors
 
 /*******************************************************************************
 *
