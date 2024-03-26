@@ -1,32 +1,30 @@
-% for now it can do perpendicular rotations
-
-function op = rotation(img, ang)
-  
-  [row,col] = size(img);
+function op = rotationmat(img, ang, point)
  
-  row_mat = zeros(size(image));
-  col_mat = zeros(size(image));
-
-  rot_matrix = ([cos(ang), -1*sin(ang); 
-                 sin(ang),  cos(ang)]);
-                 
-%  increment_factor = uint16(floor(row/2)); % should be max of row and col
-
-  for i = 1:row 
+ [row,col] = size(img);
+ 
+ rot_mat = [cos(ang), -1*sin(ang);
+           sin(ang),  cos(ang)];
+  
+  row_mat = zeros(size(img));
+  col_mat = zeros(size(img));
+  
+  for i = 1:row
     for j = 1:col
       
-      coordinates = [i - floor(row/2) - 1;j - floor(col/2) - 1]; 
+      coordinates = [i - point(1) - 1 ; j - point(2) - 1];
       
-      new_coordinates = round(rot_matrix * coordinates);
-
+      new_coordinates = round(rot_mat * coordinates+ point) ;
+      
       row_mat(i,j) = new_coordinates(1);
       col_mat(i,j) = new_coordinates(2);
+ 
+      
     endfor
   endfor
   
   row_mat;
   col_mat;
-  
+   
   [index_row,index_col] =  size(row_mat); % transformed row_mat and col_mat coordinates matrix will have same size that of input matrix
 
  %% defining size of input matrix 
